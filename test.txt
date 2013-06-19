@@ -1,0 +1,5 @@
+Remove *.log files found older than 7 days under Loader\logs folder
+Remove RealTime*.log, *elmo_changes*, ili*, mlu*, *.err and *.dl files found older than 60 / 7 days and zero size files under  ~\Loader\RealTime\Log
+Remove *.MLU, *.ILI files found older than 7 days under ~\Loader\Daily\Archive 
+Remove *.Z and *.log files found older than 14 days under ~\Loader\Weekly\Archive 
+Remove *.log files found older than 7 days under ~\Loader\Reports\Logs
